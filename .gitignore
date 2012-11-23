@@ -36,4 +36,4 @@ nosetests.xml
 
 # ST2 Project
 *.sublime-*
-
+.ropeproject
